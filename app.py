@@ -114,7 +114,7 @@ def get_hybrid_recs(user_id):
 st.set_page_config(page_title="Swiggy AI Recommender", layout="wide")
 
 # Header
-st.title("🍔 Swiggy-Style Recommendation Engine")
+st.title("🍔 Restaurant and Dish Recommendation Engine")
 st.markdown("### A Hybrid System: Collaborative Filtering + Content-Based")
 
 # Sidebar
